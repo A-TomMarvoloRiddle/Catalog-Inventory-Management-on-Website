@@ -1,6 +1,15 @@
 # gitattributes
+
+# languages
 *.sql linguist-detectable
 *.html linguist-detectable
 *.css linguist-detectable
 *.javascript linguist-detectable
 *.php linguist-detectable
+
+# all_in_.php
+*.php linguist-language=PHP
+*.php linguist-language=HTML
+*.php linguist-language=CSS
+*.php linguist-language=JavaScript
+*.php linguist-language=SQL
