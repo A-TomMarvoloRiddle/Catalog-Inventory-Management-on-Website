@@ -1,0 +1,6 @@
+# gitattributes
+*.sql linguist-detectable
+*.html linguist-detectable
+*.css linguist-detectable
+*.javascript linguist-detectable
+*.php linguist-detectable
