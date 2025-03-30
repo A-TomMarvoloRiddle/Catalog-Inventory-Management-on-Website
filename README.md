@@ -69,13 +69,14 @@ CREATE TABLE login (
 ---
 
 ## 🎯 **Project Screenshots**
-
-![image](https://github.com/user-attachments/assets/e45867c6-ab95-43df-91c4-727e7fa4d276)
-![image](https://github.com/user-attachments/assets/6825216a-fe45-4eab-b322-8559b274bb87)
-![image](https://github.com/user-attachments/assets/e7ea6751-f785-481c-9311-f4756478408b)
-![image](https://github.com/user-attachments/assets/dbbf6868-40ba-48e1-8406-7bfd0fbc4db8)
-![image](https://github.com/user-attachments/assets/93de0566-b8ad-4c18-b9ef-b9fe93a879fc)
-
 (**As the project progresses, I'll update & add more screenshots.**)
+
+![image](https://github.com/user-attachments/assets/8964ad03-3ab7-4ce8-a21a-31a5f653315e)
+![image](https://github.com/user-attachments/assets/f897a916-7254-49f4-8aee-f78a802338e5)
+![image](https://github.com/user-attachments/assets/a57cdb46-140f-4bf8-ad1e-a33c45ec71ae)
+![image](https://github.com/user-attachments/assets/01aabb3d-b812-4365-8261-75ba4fbdd628)
+![image](https://github.com/user-attachments/assets/8151f07f-8425-4764-be3a-ce07ca7f3de4)
+![image](https://github.com/user-attachments/assets/f92e4ec3-5ffc-4b9d-b30b-39859d796ede)
+![image](https://github.com/user-attachments/assets/dba49aa9-420d-47b9-a6be-6d4715353f45)
 
 ---
