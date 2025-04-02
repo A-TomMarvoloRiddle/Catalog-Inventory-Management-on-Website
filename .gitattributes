@@ -1,13 +1,13 @@
 # gitattributes
 
-# Ignore all files in the Version_wise_codes directory
-Version_wise_codes/* linguist-language=null
-Version_wise_codes/* linguist-detectable=false
-Version_wise_codes/* linguist-ignore
-
 # languages
 *.sql linguist-detectable
 *.html linguist-detectable
 *.css linguist-detectable
 *.javascript linguist-detectable
 *.php linguist-detectable
+
+# Ignore all files in the Version_wise_codes directory
+Version_wise_codes/* linguist-language=null
+Version_wise_codes/* linguist-detectable=false
+Version_wise_codes/* linguist-ignore=true
