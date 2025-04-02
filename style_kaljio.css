@@ -1,0 +1,117 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 10px;
+    padding: 0;
+    background-color: #e9ecef; /* Light background for better contrast */
+    /* background-image: url('background.jpg'); */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the background image */
+}
+#main-container {
+    max-width: 80%; /* Set to 80% of the user's screen */
+    margin: auto;
+    background: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
+    padding: 30px; /* Increased padding for better spacing */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
+    backdrop-filter: blur(10px); /* Blur effect for background */
+    position: relative; /* Position relative for absolute positioning of time */
+}
+#timeDisplay {
+    position: absolute; /* Position the time display */
+    top: 20px; /* Distance from the top */
+    right: 30px; /* Distance from the right */
+    font-size: 1.2em; /* Font size for the time display */
+    color: #343a40; /* Darker text color */
+    background: rgba(255, 255, 255, 0.8); /* Slightly transparent background */
+    padding: 5px 10px; /* Padding for the time display */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Shadow for time display */
+}
+h1 {
+    text-align: center;
+    color: #343a40; /* Darker text color */
+    margin-bottom: 20px; /* Space below the heading */
+    font-size: 2.5em; /* Larger font size for the title */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Subtle text shadow */
+}
+h2 {
+    color: #007BFF; /* Primary color for h2 headings */
+    margin-top: 20px; /* Space above h2 */
+    margin-bottom: 10px; /* Space below h2 */
+    font-size: 1.8em; /* Font size for h2 */
+}
+h3 {
+    color: #6c757d; /* Secondary color for h3 headings */
+    margin-top: 15px; /* Space above h3 */
+    margin-bottom: 5px; /* Space below h3 */
+    font-size: 1.5em; /* Font size for h3 */
+}
+label {
+    font-size: 20px; /* Font size for labels */
+    color: #495057; /* Darker color for labels */
+    margin: 5px 0; /* Margin for spacing */
+    display: block; /* Block display for labels */
+    font-weight: bold; /* Bold text for labels */
+}
+button {
+    padding: 15px 25px; /* Increased padding for buttons */
+    margin: 10px; /* More margin for spacing */
+    cursor: pointer;
+    background-color: #007BFF; /* Primary button color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s; /* Added box-shadow transition */
+    font-size: 18px; /* Larger font size for better readability */
+    width: calc(100% - 20px); /* Full width minus margin */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Shadow for buttons */
+}
+button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+    transform: translateY(-2px); /* Slight lift effect */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+input {
+    padding: 12px; /* Increased padding for input fields */
+    margin: 10px 0; /* Margin for spacing */
+    width: calc(100% - 24px); /* Full width minus padding */
+    border: 1px solidrgb(185, 193, 202); /* Light border */
+    border-radius: 5px;
+    box-sizing: border-box; /* Include padding in width calculation */
+    font-size: 16px; /* Larger font size for inputs */
+    transition: border-color 0.3s; /* Transition for border color */
+}
+input:focus {
+    border-color: #007BFF; /* Change border color on focus */
+    outline: none; /* Remove default outline */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Add shadow on focus */
+}
+pre {
+    background:rgb(206, 211, 216); /* Light background for preformatted text */
+    padding: 15px; /* Increased padding */
+    overflow: auto;
+    border-radius: 5px;
+    border: 1px solid #ced4da; /* Light border */
+    font-size: 14px; /* Font size for preformatted text */
+    color: #333; /* Darker text color */
+}
+.form-container {
+    margin: 20px 0; /* Increased margin for form containers */
+    width: 100%;
+}
+input[type="radio"] {
+    margin: 10px;
+    width: auto;
+}
+#mainMenu, #userMenu, #aboutSection {
+    text-align: center;
+}
+@media (max-width: 600px) {
+    #main-container {
+        width: 95%; /* Adjust width for smaller screens */
+    }
+    button {
+        width: 100%; /* Full width buttons on small screens */
+    }
+}
