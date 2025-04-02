@@ -1,4 +1,9 @@
 # gitattributes
+
+# Ignore Version_wise_codes directory
+Version_wise_codes/* linguist:ignore
+
+# languages
 *.sql linguist-detectable
 *.html linguist-detectable
 *.css linguist-detectable
