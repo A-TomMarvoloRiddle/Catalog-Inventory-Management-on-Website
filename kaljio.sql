@@ -31,7 +31,5 @@ INSERT INTO login VALUES
 SELECT * FROM product ORDER BY pno;
 select * from login;
 
-#delete from login where username='eklavya';
-
-insert into product value(2,'Wireless Earpods', 'Ptron','Water Resistant Touch Sensor',789);
-insert into product value(7,'Wireless Earphones', 'Ptron', 'High Sound Quality with Extended Battery Life', 1189);
+#insert into product value(2,'Wireless Earpods', 'Ptron','Water Resistant Touch Sensor',789);
+#insert into product value(7,'Wireless Earphones', 'Ptron', 'High Sound Quality with Extended Battery Life', 1189);
