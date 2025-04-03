@@ -1,5 +1,5 @@
-### 📦 **Basic Catalog & Inventory Management System**
-A web-based system to efficiently manage product catalogs and inventory levels using **HTML, CSS, JavaScript, PHP, and MySQL**.
+# 📦 **Basic Catalog & Inventory Management System**
+### A web-based system to efficiently manage product catalogs and inventory levels using **HTML, CSS, JavaScript, PHP, and MySQL**.
 
 ---
 
