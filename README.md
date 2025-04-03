@@ -78,6 +78,10 @@ CREATE TABLE login (
 ![image](https://github.com/user-attachments/assets/1cb64bf5-ac0c-4624-bdc6-6f1a0333fa23)
 ![image](https://github.com/user-attachments/assets/75f1adf1-06a6-4309-80b8-e4ed419541ff)
 ![image](https://github.com/user-attachments/assets/cbd09ab4-12aa-4f52-bd79-da7ce44843e1)
-![image](https://github.com/user-attachments/assets/6d26e3c1-14c8-4caa-a0eb-27747c5a96f9) ![image](https://github.com/user-attachments/assets/21cf7909-bc81-4778-b84c-3b0084653935)
+![image](https://github.com/user-attachments/assets/21cf7909-bc81-4778-b84c-3b0084653935)
+<!--- ![image](https://github.com/user-attachments/assets/6d26e3c1-14c8-4caa-a0eb-27747c5a96f9) --->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d26e3c1-14c8-4caa-a0eb-27747c5a96f9" alt="Sublime's custom image"/>
+</p>
 
 ---
